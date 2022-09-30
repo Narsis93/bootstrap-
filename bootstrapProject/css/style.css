@@ -1,0 +1,32 @@
+
+.main{
+    
+     margin-left: 30%;
+   
+}
+.side{
+  
+     display:flex; 
+     flex-direction: column; 
+     height: 700px;
+     flex-wrap: wrap;
+     position: absolute;
+     padding: 10px;
+    
+}
+.alert {
+    margin-left:25% ;   
+}
+
+.card{
+   margin-top:5px ;
+   margin-left: 210px;
+}
+
+
+.table{
+    display: flex; 
+    flex-direction:column; 
+    flex-wrap: wrap;
+    margin-left:220px ;
+}
